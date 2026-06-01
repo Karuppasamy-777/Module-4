@@ -42,6 +42,7 @@ for key, value in sort.items():
 
 ## Result
 
-<img width="1173" height="193" alt="ex4 3" src="https://github.com/user-attachments/assets/4b59c2c7-7cd9-4213-8812-4636067efe0e" />
+Thus the program was executed successfully.
+
 
 
